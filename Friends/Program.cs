@@ -27,7 +27,7 @@ namespace FriendDictionary {
                 Console.WriteLine($"{friends.Phone} : {friends.Name}");
 
 
-           }
+            }
         }
     }
 }
